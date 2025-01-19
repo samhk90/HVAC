@@ -1,3 +1,6 @@
 [submodule "react-app"]
 	path = react-app
 	url = https://github.com/samhk90/hvac_react.git
+[submodule "fastapi-app"]
+	path = fastapi-app
+	url = https://github.com/samhk90/hvac_fastapi.git
